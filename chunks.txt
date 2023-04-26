@@ -1,0 +1,1843 @@
+Chunk 1:
+00:09:36.320 --> 00:09:56.140
+Daniel Tedesco: curious questions of these crafts people our whole lives, and it's it's a joy to share those conversations with all of you on the craft, Podcast, You'll love all the interviews, so please be sure to like and subscribe to the channel.
+
+00:09:56.140 --> 00:10:06.920
+Daniel Tedesco: Click the like button, and leave a comment. If there's anything you want to share. Let's get right into it. Michael, who's with us today
+
+00:10:07.780 --> 00:10:25.670
+Michael Du: all right. Today we are joined by Justin scarborough a strategic and an operational executive with over 25 years of experience in leadership production, marketing and sales in the gaming and mobile industries. So he has worked for a major companies like Disney, and scopely
+
+00:10:25.670 --> 00:10:34.110
+Michael Du: and managing their business in Asia, and a leading successful franchises like Disney Samsung, and also Marble future fight.
+
+00:10:34.230 --> 00:10:46.510
+Michael Du: and with his extensive network of regional contacts and the fluency in Japanese. Justin excel at business development negotiations and also platform planning.
+
+00:10:46.510 --> 00:11:04.890
+Michael Du: join us as we explore his passion for content and also technology, and learn from his impressive track record of creative and also financial success. We're honored to have Justin on the show, and we look forward to diving to his insights and also experiences Justin. Welcome to the craft, Podcast.
+
+00:11:05.630 --> 00:11:16.970
+Justin: Thank you, Michael. Thank you, Dad. I really appreciate it. I'm pretty excited to be able to participate today, and thanks for your kind words. I look forward to getting into it a bit. Talking about some games.
+
+00:11:17.140 --> 00:11:34.390
+Daniel Tedesco: Yeah, so to kick things off justin you, you don't look particularly Japanese, but you've worked in in Japan, for I think a the bulk of, or a lot of your your career. How did you decide to
+
+00:11:34.390 --> 00:11:37.520
+Daniel Tedesco: learn Japanese and build a career in Japan.
+
+00:11:38.150 --> 00:11:46.880
+Justin: Well, yeah, I you did get me. I'm not originally from Japan. I grew up in the Us. A. I actually
+
+00:11:46.940 --> 00:11:52.060
+Justin: found my way to Japan sort of by accident. I was part of a
+
+00:11:52.130 --> 00:11:56.770
+Justin: when I was, I believe, 16 years old. When I was in high school. I was so
+
+00:11:57.100 --> 00:12:05.980
+Justin: invited to be on a U.S.A. wrestling team that toured Japan. I was wrestling all through my
+
+00:12:06.160 --> 00:12:16.460
+Justin: schooling years all the way through University, and so I was asked to to come here, and this is in the mid eighties, I think 1,986 around that time.
+
+00:12:16.700 --> 00:12:24.920
+Justin: and it was very much an eye-opener for me to come to such a what was for me a very foreign place, and
+
+00:12:25.030 --> 00:12:28.710
+have no understanding of the culture or the language.
+
+00:12:28.730 --> 00:12:39.320
+Justin: This is obviously pre Internet. So it was not as easy to access information on Japan prior to visiting, so
+
+00:12:39.550 --> 00:12:46.410
+Justin: we spent the better part of 2 weeks touring the country and competing in Paris locations, and
+
+00:12:46.420 --> 00:12:49.570
+Justin: really changed me. So
+
+00:12:50.320 --> 00:12:54.460
+Justin: after the tour ended, I went back to the States.
+
+00:12:54.660 --> 00:13:07.150
+Justin: where I went to university and decided when I entered University I would try my hand at Japanese. and ultimately majored in East Asian studies.
+
+00:13:08.520 --> 00:13:23.270
+Justin: 10 to the my junior year in Japan. I had a strong desire to live in Japan and see how much of the language I could learn. So my junior year I studied abroad in Kyoto.
+
+00:13:23.630 --> 00:13:32.770
+Justin: and so it just sort of it's one of those random things that you know snowballed over time and became more and more of my passion and
+
+00:13:32.860 --> 00:13:37.410
+Justin: and the focus of my studies, and ultimately my career thereafter.
+
+00:13:38.380 --> 00:13:42.810
+Daniel Tedesco: Wow! And that that's
+
+00:13:42.920 --> 00:13:48.570
+Daniel Tedesco: the the first introduction I've heard to Japanese culture via via wrestling.
+
+00:13:48.580 --> 00:13:53.760
+Justin: Yeah, I think it's pretty random.
+
+00:13:53.830 --> 00:13:58.590
+Daniel Tedesco: but but a a pretty cool starting point.
+
+00:13:58.970 --> 00:14:02.230
+Daniel Tedesco: One of the things I I've noticed about.
+
+00:14:02.660 --> 00:14:04.750
+Daniel Tedesco: I guess the bulk of people who.
+
+00:14:05.030 --> 00:14:17.410
+Daniel Tedesco: you know, maybe learn a a another language in college or in high school, and go to a different country from where they grew up and and stay for a while. They
+
+00:14:17.430 --> 00:14:27.760
+Daniel Tedesco: most people, tend to go back to their home country. But you, you decided to kind of build an international career.
+
+00:14:27.860 --> 00:14:38.160
+Daniel Tedesco: You know. How how did you decide to do that, and what what we're kind of the the the challenges that that you face doing so? And how did you overcome that?
+
+00:14:39.320 --> 00:14:47.170
+Justin: Well, it was when I first graduated university. My plan was to come back to Japan and work for a period of time. I think I set
+
+00:14:47.480 --> 00:15:03.730
+Justin: the parameters of 3 to 5 years, and then set up, and then i'll go get my mba, and move back to the States. But what I found was after that 5 years had passed. I actually took my G. Mats and was a scheduled to go to a
+
+00:15:03.830 --> 00:15:07.760
+Justin: business school. I even had the the business school
+
+00:15:07.890 --> 00:15:17.440
+Justin: lined up and was planning to move to London, actually to go to business school, and an opportunity just presented itself to
+
+00:15:17.460 --> 00:15:25.110
+Justin: change jobs and join an Internet startup in 1996. So i'm dating myself
+
+00:15:25.420 --> 00:15:27.380
+Justin: dial up days
+
+00:15:27.480 --> 00:15:34.330
+Justin: a fixed line. Only it was brutal, but at the time time it was revolutionary. And so
+
+00:15:34.400 --> 00:15:40.110
+Justin: a friend of mine, a Japanese man, started a a business right in my neighborhood, and
+
+00:15:40.360 --> 00:15:48.980
+Justin: invited me to to join and get in early, and that proves for me to be the ultimate business school. I I
+
+00:15:49.220 --> 00:15:54.080
+Justin: learning you, learn fast when you you have
+
+00:15:54.580 --> 00:15:57.050
+Justin: severe cash, flow pressure.
+
+00:15:57.080 --> 00:16:02.290
+Justin: You. You learn how to do business development sales, you learn how to to
+
+00:16:02.590 --> 00:16:04.050
+Justin: to
+
+00:16:04.350 --> 00:16:04.940
+it.
+
+00:16:04.980 --> 00:16:12.440
+Justin: fast track your product development. You learn how to manage teams and motivate teams out of necessity.
+
+00:16:12.860 --> 00:16:23.120
+Justin: You You learn a lot of things that way, so I ultimately didn't go to business school. I went into the start up instead, and it and it kept me in Japan
+
+00:16:23.220 --> 00:16:34.460
+Justin: in Asia. I did a couple of years in Singapore, setting us up a subsidiary of our startup in sample. But ultimately that opportunity and migrating my career to the Internet
+
+00:16:34.540 --> 00:16:37.000
+Justin: kept me in Japan. And
+
+00:16:37.900 --> 00:16:41.190
+at that point I just decided more to commit to the long haul.
+
+00:16:41.700 --> 00:16:42.430
+Daniel Tedesco: Wow!
+
+00:16:45.420 --> 00:16:51.370
+Daniel Tedesco: And that that was, I guess, a a Japanese company, right?
+
+00:16:53.130 --> 00:17:03.510
+Daniel Tedesco: But I I guess international operations. And you've also spent a lot of time working for international companies in Japan. So you've had to.
+
+00:17:03.720 --> 00:17:09.810
+Daniel Tedesco: You know, through that process, I imagine, build a lot of trust across different cultures
+
+00:17:10.960 --> 00:17:21.619
+Daniel Tedesco: over time, like what has been your approach to doing that? You know, building trust between local teams and a overseas headquarter
+
+00:17:21.780 --> 00:17:30.620
+Daniel Tedesco: and also building trust with local teams when you know you're not from the country where you know most of the people on your team are from
+
+00:17:30.800 --> 00:17:37.710
+Justin: right right? Well, there's there's a lot of challenges there, You know, when I first started my career I was in a very large Japanese company, and
+
+00:17:37.760 --> 00:17:51.430
+Justin: when I go on business trips to other regions, V. It North America or South East Asia, you would hear gripes about the headquarters, and how the headquarters doesn't get it, and then
+
+00:17:51.660 --> 00:17:56.310
+Justin: fast forward a decade, and i'm an executive in Disney, Japan, and
+
+00:17:56.400 --> 00:18:07.150
+Justin: and we would have our gripes about headquarters, and how they don't, and that is just a an understandable, very human way of.
+
+00:18:07.180 --> 00:18:18.510
+Justin: you know, seeing sort of the Hq. Versus subsidiary relationship. And when you're working cross border it is challenging to
+
+00:18:18.530 --> 00:18:22.230
+Justin: build trust, even in a common language, because
+
+00:18:22.450 --> 00:18:34.420
+Justin: you know, without that face to face relationship, it's it's not easy. And then couple of that with time zones and language barriers and obviously significant cultural differences.
+
+00:18:34.480 --> 00:18:41.880
+Justin: These are non-trivial things. When you're building and leading teams to factor in and to
+
+00:18:42.140 --> 00:18:49.310
+Justin: to over time, build build and a a a skill set for of managing, and and you know, I think
+
+00:18:50.950 --> 00:18:53.910
+Justin: I I I can only speak in general terms, which is, I think.
+
+00:18:53.970 --> 00:19:04.500
+Justin: you know, what makes a great leader is pretty consistent. and much of you know, regardless of culture and much of what informs my
+
+00:19:04.520 --> 00:19:09.730
+Justin: perception of a good leader was informed, or my my 17 years in Disney, because
+
+00:19:09.890 --> 00:19:24.790
+Justin: I had a lot of exceptional bosses and received a lot of exposure to excellent people across all disciplines. And so my view on leadership is that, you know, in general
+
+00:19:25.040 --> 00:19:30.220
+Justin: the leader works for the team. The leader works for the partners.
+
+00:19:31.250 --> 00:19:35.150
+The leader works for the customers and not the other way around.
+
+00:19:35.220 --> 00:19:39.020
+Justin: And so, if you're a leader.
+
+00:19:39.500 --> 00:19:43.310
+Justin: you I think you're doing yourself a favor. If you
+
+00:19:43.370 --> 00:19:58.030
+Justin: regardless of what country you're in seeing your role is to to take care of the people in your organization. First and foremost, your role is, Take care of your customers, and your role is to take care of your business partners. Sometimes you need to
+
+00:19:58.050 --> 00:20:02.150
+Justin: represent your business partner's interests back to the headquarters.
+
+00:20:02.310 --> 00:20:15.040
+Justin: or or to your boss, who may have a differing opinion from what you believe, and is in the best interest of the partnership, and so being a leader, is, is complicated. But I think
+
+00:20:15.910 --> 00:20:19.340
+Justin: there's several sort of key things that you can
+
+00:20:19.520 --> 00:20:25.960
+Justin: at least that igling from my experience that are important and have helped me in Japan. One is
+
+00:20:26.140 --> 00:20:33.880
+Justin: is being very curious about individual team members, needs and business partners needs.
+
+00:20:34.070 --> 00:20:40.130
+Justin: So that means when you're when you're doing one on ones or having dinners with your partners
+
+00:20:41.180 --> 00:20:45.550
+Justin: asking a lot of questions and and trying to get at what's
+
+00:20:45.870 --> 00:20:48.300
+Justin: their motivation, and how
+
+00:20:49.670 --> 00:20:59.150
+Justin: I can, as a leader, maximize their talent if I get the most out of them, and and unlock their ambition and their sort of
+
+00:20:59.200 --> 00:21:02.150
+Justin: passion for what they do. It's going to help me
+
+00:21:02.230 --> 00:21:06.210
+Justin: asking a lot of questions to better understand them
+
+00:21:06.220 --> 00:21:10.040
+Justin: as necessary, coach them, support them.
+
+00:21:10.500 --> 00:21:14.750
+and and obviously learn from them. So I I try to do that quite a bit.
+
+00:21:14.900 --> 00:21:25.190
+Justin: because ultimately it makes me a better leader, and it, you know, pragmatically speaking, and increases my probability for success. So I think being curious is really really important.
+
+00:21:25.240 --> 00:21:40.030
+Justin: and and the other word that again I picked up very much when I was at Disney. That is used quite a bit as thoughtfulness. and I think in most Asian cultures. Thoughtfulness is taken to a higher level, you know.
+
+00:21:40.040 --> 00:21:43.740
+Justin: paying attention. It's certainly in Japan it is, and you, you know.
+
+00:21:44.000 --> 00:21:50.070
+Justin: paying attention to detail, and that that includes, you know.
+
+00:21:50.150 --> 00:21:59.160
+Justin: expressions on a team members face or or their posture in a meeting or an off the cuff, remark that they make that may have some deeper meaning.
+
+00:21:59.190 --> 00:22:02.050
+Justin: because things are not always so
+
+00:22:02.110 --> 00:22:07.340
+Justin: bluntly or directly stated in this culture as as it is in some other cultures. And so.
+
+00:22:07.410 --> 00:22:12.640
+Justin: being very thoughtful to follow up with people and ask them
+
+00:22:12.720 --> 00:22:22.310
+Justin: how things are going, but also following up with them to to complement them when they've done a good job and let them know
+
+00:22:23.580 --> 00:22:29.400
+Justin: that you see what they're doing, and that what they're doing matters. And again.
+
+00:22:29.500 --> 00:22:38.420
+Justin: ultimately, a motivated workforce is a very powerful thing, and and you know, as the leader need to be very good at unlocking that. And
+
+00:22:38.450 --> 00:22:54.440
+Justin: and again, then you represent their needs into the headquarters cross border, and that, too, needs to be a constructive relationship. So you do need to get on a plane and go to headquarters and spend time with folks and understand their motivations and headquarters.
+
+00:22:54.540 --> 00:22:59.690
+Justin: and be about balanced. Representative of the company's needs back into your team
+
+
+Chunk 2:
+00:23:00.790 --> 00:23:06.910
+Justin: so it it. It cannot be an antagonistic relationship. It has to be like a
+
+00:23:08.100 --> 00:23:11.560
+something where you're, you know, seeing both sides.
+
+00:23:11.800 --> 00:23:17.320
+Justin: and really trying to always work towards a a, a sort of common direction.
+
+00:23:17.490 --> 00:23:24.570
+Justin: a forward pass forward that people are comfortable with. And I think when you talk about like us to Asia
+
+00:23:24.720 --> 00:23:27.890
+Justin: us to Japan, there's always ample
+
+00:23:27.950 --> 00:23:33.680
+Justin: risk that things will get misunderstood or not properly communicated. So you really need to work hard.
+
+00:23:33.700 --> 00:23:42.000
+Justin: Be thoughtful about the details, and following up with people. I think that's always my case. It's served me well to to work that way.
+
+00:23:43.080 --> 00:23:46.550
+Daniel Tedesco: Yeah, a lot of great insights there.
+
+00:23:46.750 --> 00:24:06.390
+Daniel Tedesco: I think that the one specific one that that you pointed out that maybe isn't as obvious to people. I I guess our audience is mostly English speakers who Haven't worked in Asian cultures before, particularly East Asian cultures is the kind of level of in in directness
+
+00:24:07.560 --> 00:24:11.440
+Daniel Tedesco: that you know is if
+
+00:24:11.530 --> 00:24:14.580
+Daniel Tedesco: if Americans don't like something you'll hear about it
+
+00:24:15.870 --> 00:24:35.470
+Daniel Tedesco: pretty directly and often quickly, but a lot of times in East Asian cultures, you know. You mentioned like a kind of an off the cuff remark, or or something said, you know, in in context of a bunch of other things in a in a meeting might actually have
+
+00:24:35.530 --> 00:24:41.140
+Daniel Tedesco: a a deeper meaning, and it's not that anyone is trying to be indirect
+
+00:24:41.180 --> 00:24:55.640
+Daniel Tedesco: or or or trying not to express themselves. It's just the way that people express their views to. Maybe their boss is different than you tend to see in in Western cultures.
+
+00:24:56.810 --> 00:25:03.090
+Justin: Yeah, I mean it's it's it's obviously what you say is important, and how you say it is important.
+
+00:25:03.280 --> 00:25:05.060
+Justin: And also where you say it
+
+00:25:06.570 --> 00:25:09.590
+Justin: right. If you're in a meeting room with 8 other people
+
+00:25:10.780 --> 00:25:21.480
+Justin: you have to in, and there's a particular team member you want to address in one another. You have to think about what you say in front of those other 7 members. How they will view what you say.
+
+00:25:22.890 --> 00:25:25.940
+Justin: I had a boss and Disney a great boss, who.
+
+00:25:26.050 --> 00:25:32.420
+Justin: when I first became a GM. He said to me, you need to realize that now you're always on stage.
+
+00:25:32.510 --> 00:25:42.560
+Justin: and what he meant. What he meant by being on stage was that, whether you realize it or not, every comment you make is heard and interpreted by people
+
+00:25:42.680 --> 00:25:51.360
+Justin: sometimes in ways you didn't intend. or you didn't realize. Maybe you're having a bad day, and you make a comment that you really didn't mean, or
+
+00:25:51.520 --> 00:26:06.920
+Justin: or if maybe you meant it, but it's not something that you would ordinary express ordinarily express. But you were tired, or you were in a bad mood, or you know you worried about your your kids grades, or whatever it was, and and you had a moment of weakness.
+
+00:26:07.140 --> 00:26:12.510
+Justin: and you said something that you should not have. And then you
+
+00:26:12.520 --> 00:26:14.970
+Justin: you spend the next 6 months trying to
+
+00:26:15.170 --> 00:26:17.120
+Justin: unwind that.
+
+00:26:17.200 --> 00:26:20.600
+Justin: And so, as a leader, you need to be very careful about
+
+00:26:21.860 --> 00:26:28.220
+Justin: what you say, and I think particularly in in in my experience in Asian territories. That's particularly the case.
+
+00:26:28.370 --> 00:26:34.960
+Justin: because one of the great strengths I think of of folks in the Us. Is that they're very direct.
+
+00:26:35.110 --> 00:26:45.150
+Justin: very expressive, and and but when they say something, they don't necessarily mean or they regret later on. They're also pretty direct and open about
+
+00:26:45.680 --> 00:26:48.820
+Justin: acknowledging that. And so.
+
+00:26:49.230 --> 00:26:59.730
+Justin: which is, is a is a good quality, and I think that in in at least in Japan, where I have the most experience. I'm comfortable in saying that
+
+00:26:59.760 --> 00:27:07.610
+Justin: it's harder to re unwind something once you've said it too. so you need to be careful about, you know.
+
+00:27:08.290 --> 00:27:11.240
+making as few mistakes up front as you can.
+
+00:27:12.380 --> 00:27:16.430
+Justin: It's not that people won't. Forgive you, but that
+
+00:27:16.600 --> 00:27:26.590
+Justin: it's just it's just a little bit more subtle, I guess communication, and therefore harder to take things back
+
+00:27:27.390 --> 00:27:33.160
+Justin: or minimize their impact after the fact. So you just need to be very thoughtful again to use that word
+
+00:27:33.250 --> 00:27:37.440
+Justin: about what you say, how you say it and where you say it.
+
+00:27:38.260 --> 00:27:41.380
+Daniel Tedesco: Yeah. Thinking about those 3
+
+00:27:42.970 --> 00:27:45.540
+Daniel Tedesco: together. It makes a big difference.
+
+00:27:45.680 --> 00:27:52.610
+Daniel Tedesco: I guess. Another thing that kind of came out in your comments is to some extent it sounds like
+
+00:27:53.770 --> 00:28:04.260
+Daniel Tedesco: it's. It's less about trying to optimize for specific cultures. There are, you know, rules of of kind, of
+
+00:28:04.510 --> 00:28:08.740
+Daniel Tedesco: being a good leader that brings different groups with different interests together.
+
+00:28:08.830 --> 00:28:10.870
+Daniel Tedesco: and
+
+00:28:10.980 --> 00:28:22.170
+Daniel Tedesco: a lot of the culture stuff. Maybe i'm kind of projecting my own own views here, so you could share your comments in a minute. But a lot of the cultural stuff is is kind of a
+
+00:28:22.500 --> 00:28:32.650
+Daniel Tedesco: a a veneer over top of general human things that are are going to be pretty
+
+00:28:33.340 --> 00:28:35.830
+Daniel Tedesco: stable to to some extent
+
+00:28:35.840 --> 00:28:43.380
+Daniel Tedesco: in in any environment. That's you know, bringing different people with different interests and backgrounds together.
+
+00:28:43.450 --> 00:28:47.280
+Justin: I I think this is right, and in you
+
+00:28:48.130 --> 00:28:55.430
+Justin: I've had the honor of managing people across Asia. Pacific. Right people, you know, everywhere from like
+
+00:28:55.440 --> 00:29:07.130
+Justin: Thailand and and and Singapore and Taipei and Shanghai and Beijing and Seoul and you know, obviously Tokyo. And and so there are.
+
+00:29:07.180 --> 00:29:16.650
+Justin: There are significant differences between folks, and it's not just language culture. It is is a driving fact of it. But I think underlying to that is
+
+00:29:16.860 --> 00:29:22.170
+Justin: what is culturally agnostic is that people want to be treated with respect.
+
+00:29:23.380 --> 00:29:35.090
+Justin: They respond when you show a genuine interest in curiosity and what they're doing, and who they are. And if you're thoughtful about how you engage with him and you represent their best interests.
+
+00:29:35.280 --> 00:29:38.470
+Justin: They, these tenants are culturally agnostic.
+
+00:29:38.550 --> 00:29:41.470
+Justin: Now I I I am a pretty vocal
+
+00:29:44.760 --> 00:29:52.430
+Justin: in in my experiences in Disney and Sculpture. I've been pretty vocal throughout my career about. you know, hating the word global.
+
+00:29:52.670 --> 00:29:56.910
+Justin: because I I think frankly, the work global is usually used.
+
+00:29:57.110 --> 00:30:15.260
+Justin: It's another way of seeing us export in in in. And you know, there, for for example, in the gaming industry, I don't think there's I don't think you can name for me 5, really, truly, maybe not even 3 truly global game companies.
+
+00:30:16.410 --> 00:30:20.250
+Justin: There are no companies that I'm aware of, that really addresses
+
+00:30:20.470 --> 00:30:38.650
+Justin: the different regions and cultures competitively, consistently. And there's a reason for that, and and the world is a very big place in a very complex place, and and i'm I've been fine with that for a very long time I've actually I prefer that, and enjoy that. I don't think that
+
+00:30:38.650 --> 00:30:49.610
+Justin: all the world's all gravitating to the same thing. Now I think that's nonsense, but I do think, I think, underneath the human sort of key tenants of being treated with respect and
+
+00:30:49.620 --> 00:31:01.180
+Justin: and knowing that your boss cares about you, and is curious about what you're up to and wants to understand you and and is is feels obligated to take care of you. Those things are universal. Yeah.
+
+00:31:02.690 --> 00:31:05.680
+Daniel Tedesco: Yeah. great points.
+
+00:31:06.890 --> 00:31:07.640
+Michael Du: Yeah.
+
+00:31:10.180 --> 00:31:15.520
+Michael Du: all right. So I think I think also like I'll recent questions. So basically
+
+00:31:15.590 --> 00:31:34.650
+Michael Du: since your extensive experience in you know this impact, but also international kind of business, so like, I I guess, from your parrot priori experience. You have a lot of cases in like, you know, doing negotiations with different people
+
+00:31:34.650 --> 00:31:54.280
+Michael Du: from with different cultural backgrounds. So like, what kind of strategy like have you found most effective? And also how do you like? By Dallas, the short term goals, and also with long term relationships. And maybe that's what I'm curious about you.
+
+00:31:54.500 --> 00:31:58.130
+Justin: Yeah, Well, that's yeah, no, that's that's
+
+00:31:58.700 --> 00:32:07.540
+Justin: I mean, that's a huge subject in and of itself right business development. I think I think you know the I would not consider myself like
+
+00:32:07.610 --> 00:32:15.080
+Justin: pure Pd Guy. Well, you know I've done business development on and off for a large part of my career, and I I think that
+
+00:32:16.770 --> 00:32:28.640
+Justin: you know I think there obviously it, when I was in dizzy much of the business development that deals that I was involved in more either distribution deals or licensing deals.
+
+00:32:28.830 --> 00:32:34.390
+Justin: and that requires a real sort of
+
+00:32:35.420 --> 00:32:43.430
+Justin: partner, mentality partner focus. and I think it. It's entirely consistent with my comments earlier about how you lead teams.
+
+00:32:43.480 --> 00:32:51.090
+Justin: you know, taking. you know, one of the things I really enjoyed about, you know, being in a company like Disney. We had
+
+00:32:51.370 --> 00:32:59.110
+Justin: literally. when I was running Disney consumer products in Japan. I had 350 licenses companies
+
+00:32:59.170 --> 00:33:06.750
+Justin: that yeah, every year I would sign contract some with them with some of them multiple contracts per year.
+
+00:33:06.870 --> 00:33:15.720
+Justin: and which means I had a great sales and in client management team. and they really, you know.
+
+00:33:16.250 --> 00:33:24.630
+Justin: went through great pains to understand the different business objectives of the partners and try to sort of proactively
+
+00:33:24.730 --> 00:33:28.240
+propose ways that they could leverage the Disney IP
+
+00:33:29.230 --> 00:33:41.550
+Justin: to maximize their business objectives, and we would constantly discuss ways that we could partner, in order to maximize the the size of the business and super, serve the the end customers as best if we can.
+
+00:33:41.630 --> 00:33:55.300
+Justin: which, in the case of Disney is really the lifeline of the company without without the fans there's there's no business. So so those type of deals the mentality when you go in and negotiate those deals
+
+00:33:55.420 --> 00:33:58.600
+Justin: is one thing, and some of those deals tend to be
+
+00:33:59.710 --> 00:34:05.270
+Justin: very long term relationships with large companies that extend over multiple years. But you.
+
+00:34:05.550 --> 00:34:21.380
+Justin: you never less periodically renegotiate, renew deals. A lot of our our game deals would be multi year deals, but for consumer products. For example, most of our deals were one year deals with the auto renewals, but we had these
+
+00:34:21.420 --> 00:34:28.290
+Justin: processes in place, for we we had what we used to call Jbp. Which is actually a Japan
+
+00:34:28.330 --> 00:34:41.940
+Justin: Dizzy Japan developed process joint business planning. So we had an annual as if, like an annual budget in an internal organization, we had joint business plans with each of our key licenses.
+
+00:34:42.080 --> 00:34:45.420
+Justin: and depending on the size of the the business with them.
+
+00:34:45.489 --> 00:34:56.070
+Justin: If If the the annual retail revenue generated by those businesses or the the royalties that Disney received in those businesses were at a certain level.
+
+00:34:57.490 --> 00:35:02.710
+Justin: Sometimes the business plans would be quarterly reviews, and depending on the size of the business.
+
+00:35:02.760 --> 00:35:14.380
+Justin: you know the general manager of the division myself, for my directs would sit into each proposal. Sometimes they were done more at lower levels if they were smaller relationships. So it wasn't just
+
+00:35:14.420 --> 00:35:18.670
+Justin: the negotiation of the deal, but it the maintenance of the relationship ongoing
+
+00:35:18.680 --> 00:35:37.150
+Justin: in the game world. It's kind of like live ops, if you will, in a license business. That's very important. Now, when you talk about some of the the the the deals that you know, Over the past few years I've been, you know, to one degree or another involved in it. It's, scopely is
+
+00:35:37.150 --> 00:35:44.800
+Justin: a lot of that has a more of a a in an investment component to it. So that was new for me.
+
+00:35:44.960 --> 00:35:47.280
+Justin: and I learned a lot from
+
+00:35:47.300 --> 00:36:01.180
+Justin: the guys on in scope. We who are very good at that and corporate development, and you know, looking at different types of companies making different types of investments. And I think the mentality there. When you go into a deal and negotiation, it's.
+
+00:36:01.520 --> 00:36:05.240
+Justin: If anything, it's, it's a more rigorous
+
+
+Chunk 3:
+00:36:05.510 --> 00:36:25.410
+Justin: process to get to a deal because you're you're talking about making significant capital outputs and and potentially acquiring companies right? And so that means bringing all of these talented folks into your your organization and being responsible for them ultimately in their careers. And again, as leaders.
+
+00:36:25.460 --> 00:36:29.370
+Justin: Ultimately, when you're looking at a potential investment
+
+00:36:29.640 --> 00:36:37.420
+Justin: and an acquisition, you're ultimately thinking, how do we incorporate these folks into our organization? Are they a fit?
+
+00:36:37.530 --> 00:36:46.270
+Justin: And how could we, You know, post investment, post acquisition, maximize the the creative
+
+00:36:46.400 --> 00:36:48.540
+Justin: and financial output
+
+00:36:48.990 --> 00:36:56.970
+Justin: of that great right. So so the the mindset going into negotiations depends on the type of deal.
+
+00:36:57.210 --> 00:37:10.410
+Justin: and then in terms of short versus long term. Again, it depends sometimes on the scale of the investment of the the size of the partnership. But just try to to try to give you a You know.
+
+00:37:10.880 --> 00:37:19.340
+Justin: You know my specific style. I would say that i'm not the guy you see in in movies the tough guy Zeros, is
+
+00:37:19.450 --> 00:37:26.490
+Justin: It's killed bang on the table. Yeah, yeah, out of that nonsense. I don't negotiate that way.
+
+00:37:26.790 --> 00:37:47.260
+Justin: But I do think the first step. One thing I did I think I would like to mention. Here is the first step when you go into negotiation. There was a training course that we received back as at Disney, and there was a phrase that they, the the the the man who originated the whole program, came up with called back Not
+
+00:37:47.430 --> 00:37:59.460
+Justin: and that acronym right. And I think some of you may be familiar with it, which is a you know, the best best alternative to a negotiated agreement.
+
+00:37:59.480 --> 00:38:10.350
+Justin: So it's kind of like knowing if the deal doesn't happen, and you need to walk away. What are your other alternatives? So it's basically before you go into negotiation. I think
+
+00:38:10.410 --> 00:38:18.900
+Justin: one of the key things is knowing what your leverage points are. having done the proper homework in advance, understanding
+
+00:38:18.970 --> 00:38:24.530
+Justin: what leverage you could pull to get a negotiated agreement that makes sense for you
+
+00:38:24.630 --> 00:38:34.860
+Justin: and what lines you shouldn't cross. And this is often a very much a data exercise. But financially saying, okay, to make this deal, make sense for us
+
+00:38:35.070 --> 00:38:38.740
+Justin: here sort of parameters within which I need to keep.
+
+00:38:38.880 --> 00:38:48.090
+Justin: And then, at the same time, when you go into those negotiations gradually, hopefully, if you're a good negotiator. You're starting to get a better understanding of the partners parameters
+
+00:38:48.300 --> 00:38:51.680
+Justin: right? And and because it's, you know
+
+00:38:51.730 --> 00:38:52.950
+Justin: it.
+
+00:38:53.100 --> 00:38:57.800
+Justin: a deal is only going to be successful if both partners are successful. Ultimately.
+
+00:38:57.830 --> 00:39:01.670
+Justin: I've had details. By the way, I've I've done deals where
+
+00:39:02.770 --> 00:39:06.790
+Justin: you know we were a little more successful than the partner was.
+
+00:39:06.930 --> 00:39:11.810
+Justin: and what happens? There is those don't become long-term relationships.
+
+00:39:11.970 --> 00:39:24.450
+Justin: And so you you know, if you're looking just to hey? I'm, i'm 5 million dollars short in the current forecast that I need to come up with a quick 5 million dollars. I need to do a quick deal.
+
+00:39:24.570 --> 00:39:28.500
+Justin: That's one type of negotiation. But if you're looking to ultimately create
+
+00:39:28.560 --> 00:39:35.540
+Justin: growth for multiple fiscal years and and something that that's going to become
+
+00:39:35.720 --> 00:39:54.330
+Justin: meaningful for the company's bottom line, your negotiation approach is very different as well. So I I think it really depends. But going in my style was always been to like, Understand what my parameters were first, even before the first meeting or the first negotiation, and then spend much of the early negotiations, just trying to
+
+00:39:54.330 --> 00:40:00.630
+Justin: ask questions and understand where where the partners sort of sweet spot is
+
+00:40:00.940 --> 00:40:04.760
+Justin: what they're what's gonna make it feel exciting for them?
+
+00:40:04.940 --> 00:40:07.320
+Justin: And does that match with what we need?
+
+00:40:08.630 --> 00:40:12.660
+Daniel Tedesco: Great do you do you think that approach worked
+
+00:40:13.690 --> 00:40:25.150
+Daniel Tedesco: better or worse, depending on who was on the other side of the table? Because what you described is kind of what I was taught when I did. An Nba like that's that's the
+
+00:40:25.350 --> 00:40:36.830
+Daniel Tedesco: kind of modern proper approach to negotiations. But I also wonder you know there are different styles. There are the bang on the table people, and
+
+00:40:37.150 --> 00:40:38.440
+Daniel Tedesco: I don't know if
+
+00:40:38.650 --> 00:40:49.650
+Daniel Tedesco: if you know the the the the proper thoughtful style is is always the best like, Where does it shine? Where does it fall down, or any
+
+00:40:49.840 --> 00:41:00.630
+Justin: specific examples? That's a tough question to answer. Because I I I i'm. I think it has more to do with what type of company you?
+
+00:41:00.760 --> 00:41:06.040
+Justin: Yeah, yeah, I mean, like
+
+00:41:07.800 --> 00:41:11.060
+Justin: I am. I've worked for 4 companies in my career.
+
+00:41:11.180 --> 00:41:19.080
+Justin: and 85 to 90% of my thinking is influenced by Disney. and even today, and and that's
+
+00:41:19.250 --> 00:41:32.980
+Justin: the the the leader I became was largely driven by my experiences in Disney and the leader I aspire to be is still driven largely by that. And so Disney has a certain way of doing things.
+
+00:41:33.040 --> 00:41:45.850
+Justin: But even within Disney, depending on the division. It could be different. When I first joined Disney it was a bit different than what it became during the Bob Eiger era, which I think was
+
+00:41:46.200 --> 00:41:53.160
+Justin: a very healthy place to be, and to learn. If you were a a an ambitious person.
+
+00:41:53.250 --> 00:41:57.850
+Justin: because values and business results were always hand in hand.
+
+00:41:57.930 --> 00:42:07.640
+Justin: and what I learned most of them most of all is you can do both. Making being a nice person does not mean you're going to fail.
+
+00:42:07.790 --> 00:42:22.400
+Justin: I I will name drop one person who no one watching this podcast may know, except Disney folks who will know very well a gentleman named Ben Pyne, and then was probably is probably one of the nicest guys who ever meet.
+
+00:42:22.720 --> 00:42:32.840
+Justin: And Ben, for a long time was driving a lot of the negotiations for the most valuable properties of the Walt Disney Company, although you know they're cable channels.
+
+00:42:32.880 --> 00:42:43.050
+Justin: you know Espn and the Disney Channel that, and he would go in and negotiate multi 1 billiondollar distribution deals with companies like Comcast and so forth, and
+
+00:42:43.150 --> 00:42:55.210
+Justin: and created incredible value during his time at Disney for Disney, and Ben was the nicest guy you ever met, and you never heard a bad word about him. Even the people who negotiated with him, like like
+
+00:42:55.300 --> 00:42:57.730
+Justin: most people are not
+
+00:42:57.840 --> 00:43:10.630
+Justin: that saintly, but but I will say that Ben was also a brilliant negotiator, who really understood his business and understood his levers and his parameters and and his bat not, and
+
+00:43:11.050 --> 00:43:17.180
+Justin: he was one of many great mentors I was fortunate to have during my time, but you
+
+00:43:17.550 --> 00:43:28.790
+Justin: can't underestimate the power of guys like that to get things done. So I I think, in other companies a different approach works very well, and and it really depends more on what?
+
+00:43:29.050 --> 00:43:38.230
+Justin: Your organization as far as to be partially, maybe, also, which industry you're in like, as you know, dizzy Entertainment company.
+
+00:43:38.320 --> 00:43:43.190
+Justin: very aspirational, brand. It's a brand. Everybody knows at the consumer level.
+
+00:43:43.200 --> 00:43:47.330
+Justin: There's certain obligations that come with that and reputation, and
+
+00:43:47.340 --> 00:43:49.230
+Justin: and and so forth. And so
+
+00:43:49.270 --> 00:43:54.520
+Justin: I won't say all companies should do that or can do that. But it's my preference.
+
+00:43:55.860 --> 00:43:56.700
+Michael Du: Okay.
+
+00:43:57.020 --> 00:43:57.930
+Justin: yeah.
+
+00:43:58.160 --> 00:44:00.320
+Michael Du: that's pretty insightful.
+
+00:44:00.570 --> 00:44:15.740
+Michael Du: And now i'll probably can switch to switch the directly here. So so from like years of experience in Disney. So, looking ahead so W: what? What are the biggest opportunities or challenges
+
+00:44:15.790 --> 00:44:24.840
+Michael Du: like, you see, maybe facing gaming or mobile industries like for particularly in Asia, and
+
+00:44:24.910 --> 00:44:36.120
+Michael Du: and also like, how do you stay on top of the curve to you know, to so so that you can have always have the big pictures and also vision for the for the future.
+
+00:44:36.670 --> 00:44:43.650
+Justin: Well, it well, those are 2 very big questions. I'll start with the second one, because I probably answer it quicker.
+
+00:44:43.680 --> 00:44:47.790
+Justin: I mean, how do you? How do you stay on top? Is.
+
+00:44:47.810 --> 00:44:56.900
+Justin: I would say. surround yourself and hang out with really smart people who can teach you stuff
+
+00:45:01.190 --> 00:45:11.360
+Justin: and not just twitter like read stuff things things that people spend more than 5 min thinking about before they wrote.
+
+00:45:11.540 --> 00:45:14.200
+Justin: and and
+
+00:45:14.720 --> 00:45:23.040
+Justin: and i'm reading a book right now. That is helping me think very differently about Web 3 and i'm still
+
+00:45:24.540 --> 00:45:38.080
+Justin: trying to figure out like everybody. You know what web 3 will mean for companies in the next few years. But i'm i'm finding just going very old school and reading a book and spending a few hours thinking about nothing else at a time.
+
+00:45:38.210 --> 00:45:39.300
+Justin: really helps.
+
+00:45:39.740 --> 00:45:44.240
+Justin: But I think, in terms of trying to keep up with
+
+00:45:44.710 --> 00:45:50.670
+Justin: where the industry is headed. One good thing about getting old, and there's there's not a lot
+
+00:45:50.850 --> 00:45:58.520
+Justin: of good things about getting old, but one of the is. There is something to this this, you know, experience
+
+00:45:58.820 --> 00:46:01.110
+Justin: leading to wisdom thing like
+
+00:46:01.650 --> 00:46:09.860
+Justin: as is, you know, the market was about a year and a half 2 years ago, really making a lot of noise about web 3 and blockchain and crypto, and
+
+00:46:10.200 --> 00:46:18.360
+Justin: it it just felt like the latest wave of something that has come before. But each wave is different. But you kind of understand
+
+00:46:18.500 --> 00:46:30.600
+Justin: the psyche around early stage when these paradigm shifts happen, how that impacts different organizations and and what stages in its evolution are required.
+
+00:46:30.630 --> 00:46:40.530
+Justin: not just for for technology to evolve and regulatory issues to be worked through, but also consumer adoption. And and you, just
+
+00:46:40.540 --> 00:46:50.610
+Justin: when you get older you've already seen this. I saw one of these in the nineties, and then I saw one of these in the mid, You know. You know, around the a. SMS boom, the original phase of that. And so
+
+00:46:50.720 --> 00:47:04.050
+Justin: so you I see this is another wave and sort of the Internet's evolution and taking the time to read. to speak with people who understand it better than you do to really
+
+00:47:04.290 --> 00:47:07.720
+Justin: not be afraid to lie, student
+
+00:47:08.100 --> 00:47:19.030
+Justin: even one year in your fifties. So I would say that in terms of where the the the you know, the Asia is going, I think that was your other question.
+
+00:47:19.970 --> 00:47:38.940
+Michael Du: I'm: sorry. So yeah, cause I I think recently I've been also cause yeah, I used to follow a lot of the you know trends and also trying to catch up, but recently also, like I, I I think, after my graduation, start to reading the books written by readal, you on principles.
+
+00:47:38.940 --> 00:47:58.510
+Michael Du: and also some of his, his writings history. So like he was like. So so I was trying to say, like, yeah, it's really important to view the system for for like, how do you process the information and try to optimize your own human computer, to to try to
+
+00:47:58.510 --> 00:48:15.860
+Justin: have a like a real align system, so that I can help you to grow like, and also evolve it at the same time. So so that's really important. Yeah, I I couldn't agree more. I think You're absolutely right like you. You You have to train your own brain and you
+
+00:48:15.950 --> 00:48:33.100
+Justin: There's a degree of discipline required, because there's just a an exorbitant amount of noise. Anytime. A new technology evolves for a you know, a a new form of gaming or a new like. Few years ago everybody was talking about hyper casual, and there was some kind of
+
+00:48:33.180 --> 00:48:47.200
+Justin: the chase after that, and i'm not knocking hyper casual. I'm just saying that you you. You need to be comfortable, I think sometimes with taking a step back and trying to see how all this fits together and build that skill into your
+
+
+Chunk 4:
+00:48:47.290 --> 00:48:56.510
+Justin: into your brain, and and how you spend your time that you know, having a little bit of discipline. So like, okay, i'm not going to spend any time on social media this afternoon, and we're gonna
+
+00:48:56.660 --> 00:49:01.100
+Justin: instead. I'm gonna, you know. Read a couple of articles on this particular, whatever it is.
+
+00:49:01.190 --> 00:49:06.110
+Justin: and and go a little bit deeper there.
+
+00:49:06.240 --> 00:49:23.320
+Justin: but you know it's a balance. I mean, there's a lot of value and a lot of knowledge. You can gleam off of social media, and and so I I just think it's a bit of a balance appetite or balance the diet. I should say you're consuming in terms of information.
+
+00:49:25.000 --> 00:49:31.400
+Justin: and I think your other question was about like game industry trends, particularly in Asia, and where it's headed. Is that correct?
+
+00:49:31.730 --> 00:49:32.480
+Michael Du: Yeah.
+
+00:49:32.840 --> 00:49:44.410
+Justin: So I mean, I think I I think the the thing I always like to say up front and things like this is number one. Game is the now. The largest games are the largest form of entertainment in the planet.
+
+00:49:44.440 --> 00:49:45.490
+Justin: And
+
+00:49:45.520 --> 00:50:05.130
+Justin: and a lot of us in the industry know that but very few people outside of the industry actually know that. And typically in the past, where you know TV and and films are just so core to the DNA of the culture. And you know, being in a company like in dis like Disney, where games is an ancillary business, even to this day.
+
+00:50:05.190 --> 00:50:22.310
+Justin: in terms of its contribution to Ibida that it's hard for people sometimes to realize that games is significantly larger at this point than any other form of entertainment, and the growth rates on games are higher, so it's. It's actually pruding distance between itself and other forms of entertainment.
+
+00:50:22.490 --> 00:50:28.780
+Justin: and within that Asia, obviously the largest region, the dominant region.
+
+00:50:28.850 --> 00:50:45.980
+Justin: the most advanced region, the most technically and creatively dynamic industry, the the the the region with the most talent in the in in the industry for sure. And so
+
+00:50:45.980 --> 00:50:53.070
+Justin: we should say that as people based in Asia on the apologetically and pride and proud. And I think that
+
+00:50:54.640 --> 00:51:00.600
+Justin: you know much of the change in the next few years, as has been the last 20 will be driven out of Asia.
+
+00:51:00.720 --> 00:51:03.180
+Justin: So again, blockchain gaming.
+
+00:51:03.270 --> 00:51:04.910
+Justin: artificial.
+
+00:51:06.500 --> 00:51:11.040
+Justin: sure. A tremendous amount of innovation will come from other regions. But
+
+00:51:11.320 --> 00:51:16.710
+Justin: I think in in gaming in particular, Asia will continue to lead. I do think it's important
+
+00:51:16.860 --> 00:51:17.810
+Justin: to
+
+00:51:17.940 --> 00:51:22.340
+Justin: also point out what you guys know, which is that there is no one Asia.
+
+00:51:22.380 --> 00:51:36.160
+Justin: And then. even when I'm. Strategically trying to segment the region for the purposes of budgeting and strategic planning, I would say at this point, I view basically there's 4
+
+00:51:37.160 --> 00:51:42.310
+Justin: parts to Asia, if you will. There's China which is just
+
+00:51:42.380 --> 00:51:51.420
+Justin: China is standalone like you have to view China uniquely because of both the fact that it's the largest gaming market in the planet.
+
+00:51:51.460 --> 00:51:57.170
+Justin: The fact that it has the most talented workforce in the world for gaming.
+
+00:51:57.180 --> 00:52:10.420
+Justin: but also the fact that it's a heavily regulated market. That's not particularly friendly to foreign companies. Companies. From a publishing standpoint it's heavily restricted, and
+
+00:52:10.630 --> 00:52:22.850
+Justin: but so so there are much of, or a lot of, the innovation that we've seen in the last few years in particular, and free to play has come out of China, and there's just a a massive amount of talent.
+
+00:52:23.180 --> 00:52:25.630
+Justin: and that's not changing. So
+
+00:52:25.720 --> 00:52:33.570
+Justin: I I I China comes with a lot of questions. If you're not a Chinese company about how to do business effectively there.
+
+00:52:33.620 --> 00:52:42.110
+Justin: But you cannot deny the importance of China as a consumer market, and certainly as as a producer and export of content.
+
+00:52:43.390 --> 00:52:55.270
+Justin: The second bucket, I would say, is advanced, or, let's say, mature markets in Asia, which I put Japan at the top of the list, and Korea a close second, just because it's smaller
+
+00:52:55.370 --> 00:53:03.340
+Justin: on in Japan. You know. I like to point this out, you know, if you just talk about mobile gaming Japan and Korea combined
+
+00:53:05.000 --> 00:53:08.230
+Justin: is on an absolute basis bigger than the United States.
+
+00:53:08.380 --> 00:53:15.100
+Justin: Despite the fact, despite the fact that the populations, even when you combine them is still only half the population of the Us.
+
+00:53:15.110 --> 00:53:25.590
+Justin: That's how big gaming is ingrained in the in the culture in these 2 countries, and a tremendous amount of innovation still comes out of Korea.
+
+00:53:25.880 --> 00:53:42.020
+Justin: Korea, the birthplace of free to play gaming argument. And Japan the leader, you know, the first Major Asian country to get into gaming in a meaningful way, and still incredibly important, the number 3 gaming mark in the world
+
+00:53:42.170 --> 00:53:52.410
+Justin: home of Sony and Nintendo, and excluding the us probably the single biggest generator of high value, IP in the world for gaming.
+
+00:53:52.520 --> 00:54:04.660
+Justin: And so Japan and Korea. and also, you know, high yield consumer mark. It's very sophisticated consumers. We spend a lot in gaming and our experts and gave me like in China.
+
+00:54:05.150 --> 00:54:15.440
+Justin: so I would say, China, the mature markets and the emerging markets when you the third bucket Southeast Asia in particular. And what's interesting about South East Asia is. among other things.
+
+00:54:17.630 --> 00:54:25.760
+Justin: it's a very young population, and they're really leading the way in the numer. The newer forms of gaming, such as esports.
+
+00:54:25.950 --> 00:54:32.570
+Justin: blockchain, and I think in the next few years
+
+00:54:32.670 --> 00:54:40.810
+Justin: Southeast Asia will become a region that global or globally as aspiring companies will pay more attention to.
+
+00:54:41.220 --> 00:54:46.450
+Justin: But you know, there's a lot of challenges still in in distributing games in South East Asia because of payment.
+
+00:54:47.550 --> 00:54:53.260
+you know, obviously different language, different cultures, different regulatory environments, and so forth.
+
+00:54:53.310 --> 00:55:00.260
+Justin: But the innovation blockchain gaming is really, you know, been dri driven a large part out of that part of the world. So
+
+00:55:01.790 --> 00:55:09.290
+Justin: and then the fourth bucket is India, which, like China, for very obvious reasons you should look at as its own region.
+
+00:55:09.320 --> 00:55:16.390
+Justin: and I can see, is the consumer market not as interesting yet as as the other 3, because it's not as big yet.
+
+00:55:16.540 --> 00:55:21.050
+Daniel Tedesco: but ultimately it may be the region well along with Japan.
+
+00:55:21.060 --> 00:55:32.660
+Justin: It has the most local content, and and over time a healthy sort of local studio ecosystem. I think today Indian studios are just
+
+00:55:33.140 --> 00:55:36.040
+Justin: starting to show potential
+
+00:55:36.150 --> 00:55:49.140
+Justin: to be globally competitive. I don't think they're there yet, but there's a lot of positive growth happening in India, not just at the consumer level, but at the at the developer level. So it's it's one to watch.
+
+00:55:50.640 --> 00:55:51.530
+Michael Du: Great
+
+00:55:52.650 --> 00:55:59.230
+Daniel Tedesco: Yeah, for sure. That's a broad
+
+00:55:59.240 --> 00:56:03.580
+Daniel Tedesco: review. But I think a good summary of the the Diversity
+
+00:56:03.610 --> 00:56:08.850
+Daniel Tedesco: across a pack. And there there are other markets that
+
+00:56:09.550 --> 00:56:21.510
+Daniel Tedesco: you know the those buckets don't even mention, like Taiwan, is the what the fifth or sixth largest gay market in the world, and it's really, I I would definitely say, like
+
+00:56:21.550 --> 00:56:25.110
+Justin: I, I sort of tend to group Hong, Kong, Taiwan.
+
+00:56:25.460 --> 00:56:42.080
+Justin: Australia, and New Zealand along with like Japan creates like the mature gaming markets. You know that sophisticated yeah, I because it's small. I didn't mention Taiwan, but it certainly is one of the mature markets. I've small population, but
+
+00:56:42.120 --> 00:56:45.400
+Justin: highly sophisticated hierarchy gaming market.
+
+00:56:45.420 --> 00:56:46.380
+Justin: all right.
+
+00:56:46.500 --> 00:56:50.390
+Justin: and I wouldn't. I don't lump it in
+
+00:56:50.540 --> 00:56:55.800
+Justin: with emerging markets at all. Actually, I think in time one is far more advanced than that
+
+00:56:56.010 --> 00:56:56.880
+Michael Du: for sure.
+
+00:56:57.180 --> 00:56:57.980
+Justin: Yeah.
+
+00:56:58.310 --> 00:57:09.570
+Justin: Well, then, the first bucket has to be called mainland China. So we don't get cancelled well and and and there's just the fundamental difference in distribution that you know
+
+00:57:09.770 --> 00:57:17.810
+Justin: the very fact that there's no global play versus Google play being very healthy in Taiwan and Hong Kong. That will only
+
+00:57:17.960 --> 00:57:19.740
+Justin: definitely.
+
+00:57:19.790 --> 00:57:27.790
+Justin: and the consumer preferences from that really different. So so from mainland to Taiwan, for example.
+
+00:57:27.880 --> 00:57:28.900
+Justin: So
+
+00:57:28.920 --> 00:57:31.910
+Justin: I just think that they certainly
+
+00:57:32.110 --> 00:57:37.210
+Justin: a Taiwan, for sure, in Hong Kong for sure within the mature markets bucket in my mind.
+
+00:57:37.370 --> 00:57:39.190
+Daniel Tedesco: Right? Yeah. Yeah.
+
+00:57:40.560 --> 00:57:42.550
+Daniel Tedesco: So what's
+
+00:57:42.630 --> 00:57:45.840
+Daniel Tedesco: talk a little bit about some of the
+
+00:57:46.190 --> 00:57:50.160
+Daniel Tedesco: ips? Because I think some of the the
+
+00:57:50.220 --> 00:57:52.970
+Daniel Tedesco: game ips, and particularly that you
+
+00:57:53.140 --> 00:58:08.700
+Daniel Tedesco: worked with most closely, are actually really unique to Asia. I'm thinking of like kingdom hearts and some some, I guess, even more particularly to Japan itself.
+
+00:58:08.710 --> 00:58:09.840
+Daniel Tedesco: And
+
+00:58:10.350 --> 00:58:13.880
+Daniel Tedesco: probably when when you first started interacting with those
+
+00:58:13.950 --> 00:58:18.980
+Daniel Tedesco: ips or or potential ips, you know it.
+
+00:58:20.180 --> 00:58:24.150
+Daniel Tedesco: If if you If you had pitched those to me 10 years ago.
+
+00:58:24.210 --> 00:58:35.730
+Daniel Tedesco: I I would have thought this doesn't make any sense like Why why is Why is goofy in an in, you know, an an Rpg. Game battling monsters.
+
+00:58:35.820 --> 00:58:51.120
+Daniel Tedesco: And you know, why is Disney making a digital Beanie babies? But you know those have been incredible successes, both
+
+00:58:51.310 --> 00:58:56.110
+Daniel Tedesco: financially, but also in terms of kind of
+
+00:58:56.200 --> 00:59:03.140
+Daniel Tedesco: creatively, you know, kingdom hearts is a is a beloved IP.
+
+00:59:03.300 --> 00:59:04.210
+Daniel Tedesco: So
+
+00:59:04.490 --> 00:59:19.390
+Daniel Tedesco: yeah, if if you know you can share any of the the the stories behind how those those came about. But also you know how. How do you find the opportunities like that when there is probably a sea of of options.
+
+00:59:19.430 --> 00:59:28.940
+Justin: Well, yeah, I mean I've I the one of the many pleasures I I I had of being My position in Disney was that
+
+00:59:29.000 --> 00:59:46.170
+Justin: you know we were given a great deal of empowerment from the headquarters to you know, understanding that Asia, gaming and age is at another level in terms of the scale, and also the creative talent. Of course, the different territories from so
+
+00:59:46.170 --> 01:00:05.890
+Justin: Disney was smart enough to know that there's great developers in Japan, in China, in Korea that could help interpret our our IP. Which is already very strong in all those countries. Of course, thanks to the films and theme parks and consumer products and television. And now Disney plus, and you know, but
+
+01:00:06.180 --> 01:00:12.790
+Justin: you know how local talent, local creative town. Local technical talent could
+
+01:00:12.830 --> 01:00:19.020
+Justin: help interpret our IP and put it into that form of entertainment gaming.
+
+01:00:19.140 --> 01:00:38.650
+Justin: And I, you know I really respect that our leadership in La knew enough to know that that was something that would elevate the brand in in certain cases. And you know we we always needed to have a rigorous creative process to get to a decision whether to do a game or not, just like we have
+
+01:00:38.650 --> 01:00:43.370
+Justin: the same process in the West, but being open to the idea that
+
+01:00:43.430 --> 01:00:45.260
+Justin: the characters could
+
+01:00:45.290 --> 01:00:55.640
+Justin: expand, and what they do, and who they are in these worlds, that that it's not just derivative content, but in some sense it involves the stores, and sometimes we create new characters, like, in the case of kingdom, hearts
+
+01:00:55.740 --> 01:01:00.380
+Justin: first and foremost, something like kingdom hearts. It's important to say, up front that
+
+01:01:00.410 --> 01:01:17.010
+Justin: kingdom hearts is not kingdom hearts without Square Edx. I mean Square Andx is a fabulous creative organization in a technical or innovative organization and the partnership to sort of harken back to the our conversation a little bit earlier is like
+
+01:01:17.180 --> 01:01:24.740
+Justin: that was built, and and and the relationship with Square Nixon. Disney has evolved over 20 years now.
+
+01:01:24.850 --> 01:01:33.610
+Justin: and it literally started 3, 4 years before I even joined Disney, so I can't take credit for starting kingdom arts. I did not.
+
+01:01:33.690 --> 01:01:39.210
+Justin: The 2 people who started kingdom hearts, one in school and one in Disney.
+
+
+Chunk 5:
+01:01:39.290 --> 01:01:59.290
+Justin: It just so happened that the shared an elevator ride, and they were in the same office building Disney and Square. This was before square in it's when it was still we're in the same elevator, and they just struck up a conversation, and it led to some brainstorming, some more detail conversations
+
+01:01:59.450 --> 01:02:11.220
+Justin: going that La and Burbank to make the pitch. It was not always well received internally in Disney. It took a while to get people to understand why the game division felt working with
+
+01:02:11.250 --> 01:02:23.150
+Justin: Square at the time and square in it thereafter on you know the the makers of final fantasy. Why, Disney, partnering with them and and mashing up characters and creating new characters in this world.
+
+01:02:23.230 --> 01:02:31.380
+Justin: Why, how we could make it from a brand perspective, make sense and make it compelling game. The in the creative output and
+
+01:02:31.480 --> 01:02:43.790
+Justin: creative output over multiple games and platforms over the years a lot of talented people have contributed to it, and I had the honor of on the Disney side of managing the franchise for a decade
+
+01:02:43.850 --> 01:02:58.590
+Justin: so, and I came in. There was a big low in the franchise there was there, you know. It was 5 years since King of March. 2 had come out, and it was really not. There was a couple of smaller like handheld titles, but there was no roadmap for the future.
+
+01:02:58.690 --> 01:03:08.770
+Justin: and I thought that odd and and as I got my head around the business and got to know the CEO would square in, except time what less on, and then
+
+01:03:08.830 --> 01:03:15.650
+Justin: the current CEO of us on. After that we able to negotiate multiple new deals.
+
+01:03:15.670 --> 01:03:28.800
+Justin: kingdom hearts taking the back catalog and and up resing them for playstation, 4 and and Xbox launching a mobile title and all tie into and leading to Kingdom Hearts 3,
+
+01:03:28.890 --> 01:03:37.850
+Justin: which was shipped in 2,019. So he was a highlight of my career to be involved in that franchise, and to get to be in the room with a lot of the
+
+01:03:38.100 --> 01:03:41.710
+Justin: creative sessions between
+
+01:03:41.890 --> 01:03:47.480
+Justin: director in in La and up at Pixar, with
+
+01:03:47.610 --> 01:03:51.250
+Justin: the brand owners of frozen and thinking, Wow
+
+01:03:51.490 --> 01:03:54.960
+Justin: and toy story and monster zinc, and
+
+01:03:55.120 --> 01:04:04.590
+Justin: being sitting in the room in those offices in California while they were working on script and and scenarios, and and
+
+01:04:04.740 --> 01:04:08.580
+Justin: just getting people coffee and staying out of the way of the
+
+01:04:08.880 --> 01:04:23.170
+Justin: I try not to hurt myself. That's a career highlight for me. And then soon, soon, and a lot of folks don't know, since some outside of Japan. But it's actually the biggest, most successful game on any platform in the history of the Walt Disney Company in terms of financial
+
+01:04:23.240 --> 01:04:25.330
+Justin: performance, and
+
+01:04:25.660 --> 01:04:39.200
+Justin: it's a massive, massive hit. It's been in the market now 9 years. still consistently in top 10 grossing in Japan. the largest, the most downloaded game app in the history of the app store in Japan
+
+01:04:39.340 --> 01:04:57.610
+Justin: to this day the largest dau of any game in Japan. Even today, after 9 years massive hit, and that came out of conversation. That one. I was there on day one because it was a phone call between me and the head of the Disney Store, Japan, and we came up.
+
+01:04:57.740 --> 01:05:02.180
+Justin: He was working on this plush, and he showed me, and I thought it would make a good game. And then
+
+01:05:02.190 --> 01:05:06.960
+Justin: I have some really talented team members in Disney Japan who really worked with
+
+01:05:07.180 --> 01:05:18.780
+Justin: our partners at line to come up with the con seat and to prototype and selling that into Burbank was actually less challenging than kingdom hearts, because
+
+01:05:18.800 --> 01:05:25.650
+Justin: we're all already committed to the consumer product. Line the the the plushes. and so call me up with a game
+
+01:05:25.730 --> 01:05:46.490
+Justin: seemed additive strategically, but ultimately the game proves to be the real driver of the franchise, and so much so that eventually we rolled out consumer products, I think, across like 20 or 30 different licenses in Japan, and they started selling the merchandise globally, and all the parks, including in Shanghai and Hong Kong and
+
+01:05:46.500 --> 01:05:49.740
+Justin: and Florida and La and Paris.
+
+01:05:49.860 --> 01:05:50.790
+Justin: and
+
+01:05:51.080 --> 01:05:55.610
+Justin: and they've created animation shorts for the Disney Channel based on it.
+
+01:05:55.700 --> 01:06:00.100
+Justin: and that all came out of like a phone call in
+
+01:06:00.260 --> 01:06:10.380
+Justin: in Mexico, Tokyo in 2,013, I think. And you're talking about a multi 1 billiondollar franchise created
+
+01:06:11.630 --> 01:06:14.220
+Justin: out of Japan. So
+
+01:06:14.260 --> 01:06:26.400
+Justin: a company like Disney being able to do that, it was a great honor to be allowed to be part of that. Even now in my neighborhood. People sort of tease me about that game, because everybody
+
+01:06:26.460 --> 01:06:30.720
+Justin: please, that came, and no I I was a associated with it for a long time, so
+
+01:06:30.790 --> 01:06:35.890
+Justin: they they they like to come and and and my kids
+
+01:06:35.900 --> 01:06:40.630
+Justin: French all call me. It's in the papa.
+
+01:06:41.590 --> 01:06:47.610
+Justin: maybe just Justin's too hard a name for them to remember. But Simpson, they can remember
+
+01:06:47.610 --> 01:07:05.090
+Justin: right. Okay, maybe maybe we'll change the title of this video to interview with so much of a pop up. I mean it. It shows the power of a good idea, because so many people limited to it. The partners, our employees
+
+01:07:05.090 --> 01:07:12.900
+Justin: employees, not just in the Core team in Tokyo. But then folks in the Us. Folks around the region, and then, you know, I left
+
+01:07:13.080 --> 01:07:15.200
+Justin: Disney about 4 years ago.
+
+01:07:15.430 --> 01:07:25.440
+Justin: and you know Kingdom hearts where they're working on right now, and zoom is still a top, you know. When you create great IP, it's more important than any exact, any any individual.
+
+01:07:25.550 --> 01:07:27.050
+Justin: and it just
+
+01:07:27.080 --> 01:07:33.930
+Justin: it just continues to be popular even when you change creatively. Sometimes it it's done in the right way.
+
+01:07:34.120 --> 01:07:41.000
+Justin: and so successful franchises. Ips are just invaluable, and in in gaming industry it's the same thing.
+
+01:07:41.520 --> 01:07:44.360
+Daniel Tedesco: Yeah. Well, then, go and
+
+01:07:44.580 --> 01:07:52.670
+Daniel Tedesco: back to. I guess the the last part of the question. You probably saw lots of ideas like like those
+
+01:07:52.730 --> 01:07:57.280
+Daniel Tedesco: come through as as potentials.
+
+01:07:58.060 --> 01:08:06.270
+Daniel Tedesco: You know. How how did you decide? How how do you decide which ones to and invest in versus not.
+
+01:08:06.360 --> 01:08:14.940
+Daniel Tedesco: And I guess any any cases where where it didn't. You know where it wasn't the the the big success? And how do you learn from those?
+
+01:08:15.500 --> 01:08:30.500
+Justin: Yeah. So so there were cases where we failed, and we don't talk about those. You know one of the things that that, I think, is a prerequisite to having a successful new IP or a new game or something it's like
+
+01:08:30.600 --> 01:08:43.399
+Justin: in a case of Simpson. We knew we wanted to create a game with line, because we had already, you know, the the the messaging app line, just the the default. It's the we chat of Japan right, and and
+
+01:08:43.399 --> 01:09:01.640
+Justin: I had spent time with their CEO understood their business strategy again to call back during the conversation. We already been in business together, because Disney helped line launch their stamped business, which is a very lucrative business here, selling all types of emoji and stamps online in Japan.
+
+01:09:01.640 --> 01:09:17.800
+Justin: I know another Asian property, and, like we chat and doesn't, monetize well. But in Japan even today monetize very well. We already had a a business relationship with Line and Disney, but we we knew that we wanted to something bigger in the game space.
+
+01:09:17.890 --> 01:09:22.229
+Justin: and we just had that that moment where
+
+01:09:22.390 --> 01:09:35.180
+Justin: I saw these pluses, that the Disney store. Japan had originally developed. and it 10. It was based on the sort of a Buddhist something you see it Buddhist temples of stacking stones.
+
+01:09:35.270 --> 01:09:47.170
+Justin: but instead of the idea of of cute Disney pluses, and I said, Well, that's got it. That's a good idea for a casual game, and we wanted to create a casual game, because we thought the line audience would be very
+
+01:09:47.420 --> 01:09:59.350
+Justin: mass audience, not just gamers. So it had to be a very simple game plan. and we knew we had great style guides from the Disney store, and we could build upon that in 2D art for for gaming.
+
+01:09:59.430 --> 01:10:01.960
+Justin: and we should just took it from there
+
+01:10:02.040 --> 01:10:17.010
+Justin: with kingdom hearts, I mean. It was pretty obvious. The makers of final fantasy were also Disney lovers and efficient autos, and they had a story for a very compelling story that they pitched to Disney, and and of how we can make it all work
+
+01:10:17.110 --> 01:10:20.580
+Justin: so it's it's very case back is, I give it one more example
+
+01:10:20.610 --> 01:10:25.380
+Justin: in Japan for years. The Ital game genre is very popular, very steady.
+
+01:10:26.030 --> 01:10:31.390
+Justin: you know. I/O games for for predominantly male audiences, idle games for predominantly female audiences.
+
+01:10:31.440 --> 01:10:44.520
+Justin: And I there was a time I I I challenge my team in Tokyo. We had already had kingdom hearts. And since, when I said okay, I want to go into the idle genre, I think it's Disney can absolutely create original IP
+
+01:10:44.770 --> 01:10:52.100
+Justin: in the idle genre. go out to some partners. Come up with your own ideas and and let's do a pitch process. And we did it.
+
+01:10:52.290 --> 01:11:02.380
+Justin: And eventually the idea that we arrived at became a game called Disney Twisted Wonderland, and that Disney Twisted Wonderland is an idle game in Japan.
+
+01:11:02.420 --> 01:11:06.460
+Justin: A Disney branded all original characters.
+
+01:11:07.740 --> 01:11:15.470
+Justin: but based on, and with very strong callbacks to a lot of the the traditional Disney stories.
+
+01:11:15.570 --> 01:11:21.360
+Justin: and takes place in a university in this sort of alternative universe.
+
+01:11:21.370 --> 01:11:22.690
+Justin: and
+
+01:11:22.940 --> 01:11:35.250
+Justin: that game is between, you know. Top 10 top, 20 grossing game in Japan for 3 years now, and the your story was written by a Japanese manga artist
+
+01:11:35.430 --> 01:11:54.570
+Justin: who had already had some hits, ironically doing some work with Square Edx not related to Kay parts, and she was also conveniently a huge Disney fan and aficionado. And so they worked on this whole con seat of what became called Night Raid in college.
+
+01:11:54.570 --> 01:12:02.340
+Justin: which is where the the story takes place. and this game to this day is a a top Popular damage. Pan.
+
+01:12:02.350 --> 01:12:11.540
+Justin: The publishers aniplex, who was great, you know the same guys to do fate grand grand order. So we knew, working with a company that knew what they were doing.
+
+01:12:11.770 --> 01:12:13.040
+Justin: And
+
+01:12:13.720 --> 01:12:32.500
+Justin: you know that was an example of the team internally. And this is Japan, figuring out how to work with a potentially great partner and a and a great writer, a creative mind externally bringing them in, mashing it up with some of the intern internal ideas, and evolving into a 15 to 20 milliondollars a month game.
+
+01:12:32.600 --> 01:12:36.380
+Justin: And you know that persistently does. Well.
+
+01:12:38.190 --> 01:12:43.950
+Justin: so. But you know. Then, you know, inevitably, we make mistakes by trying to repeat what we did before.
+
+01:12:44.060 --> 01:12:53.920
+Justin: and you get diminishing returns right? So so you always kind of feel. Oh, this one's feel special. This one feels a little different
+
+01:12:53.930 --> 01:13:08.270
+Justin: when you're doing something that you're uncomfortable like that's new. And with twisted wonderland which launched after I left Disney it was in development while I was in Disney. We did the deal while I was there, but I left in sort of mid development.
+
+01:13:08.360 --> 01:13:17.470
+Justin: and when it launched I just by the time it launched I was excited just to see where it landed creatively, and then, obviously, I knew it was going to be popular, because it
+
+01:13:17.520 --> 01:13:21.030
+Justin: the passion behind it and the talent, but behind it.
+
+01:13:21.340 --> 01:13:27.650
+Justin: and and to the credit of the team and the partner I mean it exceeded my expectations. Wow!
+
+01:13:28.050 --> 01:13:29.840
+Daniel Tedesco: So it sounds like with
+
+01:13:30.880 --> 01:13:32.150
+Daniel Tedesco: with each of these
+
+01:13:32.210 --> 01:13:35.310
+Daniel Tedesco: 3 examples in particular. At least
+
+
+Chunk 6:
+01:13:35.340 --> 01:13:49.080
+Daniel Tedesco: it wasn't it wasn't like there was just a kind of a a pitch out of nowhere with a great idea. There were. There were kind of things that stacked up on top of each other
+
+01:13:49.310 --> 01:14:03.460
+Daniel Tedesco: like, you know, there was this relationship with line that you wanted to build a casual game. There were already the the the some plushies in the stores.
+
+01:14:03.990 --> 01:14:06.990
+Daniel Tedesco: You know you saw kind of the the
+
+01:14:07.500 --> 01:14:26.760
+Daniel Tedesco: kind of a a cultural connection with the stacking things that at temples, and that is what brought it together. It wasn't just a a an idea like a a perfect idea out of the ether it it's like you're connecting things that already kind of sprouting.
+
+01:14:26.810 --> 01:14:42.750
+Justin: and in case of gaming, knowing that they're in genres that consumers like and are comfortable with, like Rpg: it twisted one or any idle genre, You know Simpson again, a varying of a match, 3 type of puzzle game things, you know, big with big audiences.
+
+01:14:42.750 --> 01:14:47.650
+Justin: Another example is in Korea with net marvel. We did marvel future fight. It was the same kind of
+
+01:14:47.910 --> 01:15:06.380
+Justin: it is sort of that sort of genre action. Rpg: that it was. They were very good already net marvel. They had proven expertise in the genre, huge passion for the marble brand and the studio that developed the game. The the net model studio called Monster Studio.
+
+01:15:06.380 --> 01:15:22.150
+Justin: Their Gms. Ken Kim is just a creative. He's he's a rock star, and so that Ken was pitching us the ideas. It was just yeah, I want to make some of this guy, and he became so trusted not only by my team, but marvel in the Us.
+
+01:15:22.280 --> 01:15:28.870
+Justin: That they allowed Can and his team to create several original characters in marvel future fight. That then
+
+01:15:28.890 --> 01:15:37.230
+Justin: original marvel characters that you know, made in Korea, that eventually became even in corporate into some of the Us. Comics.
+
+01:15:37.380 --> 01:15:47.480
+Justin: so that they're actually part of the global marvel character database now and and are used from time to time. And in some of the non gaming areas of the the business.
+
+01:15:47.640 --> 01:15:50.550
+Justin: That's when you know when you know you have great
+
+01:15:50.630 --> 01:15:52.800
+Justin: creative people on the other side of the table.
+
+01:15:53.010 --> 01:16:00.340
+Justin: You're in pretty shape. It's not it doesn't always work out that way, and sometimes you want something a little too much, and you force it.
+
+01:16:00.470 --> 01:16:04.810
+Justin: But things go well. There's usually a really great
+
+01:16:05.090 --> 01:16:06.730
+Justin: creative person behind it.
+
+01:16:06.960 --> 01:16:11.820
+Daniel Tedesco: Yeah. And that example actually makes me think of
+
+01:16:12.520 --> 01:16:18.880
+Daniel Tedesco: something else. You know, there, there's this term reverse innovation, which is.
+
+01:16:19.140 --> 01:16:25.610
+Daniel Tedesco: I think, pretty eurocentric and and kind of racist too.
+
+01:16:25.680 --> 01:16:27.130
+Daniel Tedesco: But
+
+01:16:28.080 --> 01:16:36.470
+Daniel Tedesco: you know there that it encapsulates this idea that there could be a trend of oh, well, you know, there's
+
+01:16:36.480 --> 01:16:45.690
+Daniel Tedesco: now there's things happening in emerging markets that can be applied to other developed markets.
+
+01:16:45.970 --> 01:16:46.960
+Daniel Tedesco: and
+
+01:16:47.140 --> 01:16:53.180
+Daniel Tedesco: you know typically the the term is used when talking about like oh, you know.
+
+01:16:53.390 --> 01:17:00.180
+Justin: Alibaba supply chains like, what can the the Us. Learn about them?
+
+01:17:01.010 --> 01:17:07.420
+Daniel Tedesco: But the games? I think a lot of the games are so unique that that you've had the
+
+01:17:07.740 --> 01:17:11.370
+Daniel Tedesco: that you've been able to to work with like
+
+01:17:11.380 --> 01:17:23.090
+Daniel Tedesco: some some, and you tw twisted university. It's like there. There's probably a a rich vein of potential to figuring out. Well, how could these types of
+
+01:17:23.320 --> 01:17:33.080
+Daniel Tedesco: dynamics, either, you know, characters or art styles or stories, gameplay mechanics that can be applied in in other parts of the world.
+
+01:17:33.370 --> 01:17:45.070
+Justin: I had that question posed to me a lot like in in in Disney, they would say, like, Why do you think this scheme doesn't work as well in the West? Or why does this Western game not work as well, and
+
+01:17:45.270 --> 01:17:57.360
+Justin: in Asia, or something like that. And sometimes it just is what it is like You You it's not through a lack of effort or or innovation necessarily. But you know, consumer preferences do vary.
+
+01:17:57.370 --> 01:18:00.620
+Justin: Yeah, and you know that's
+
+01:18:00.660 --> 01:18:07.820
+Justin: why you have to be somewhat cognizant of that when you're making games.
+
+01:18:07.850 --> 01:18:20.490
+Justin: And and you know this is a business. So when you're thinking about where to to place your bats and where to make your investments, you have to obviously have a degree of confidence that you're going to reach a big enough audience with what you're creating
+
+01:18:20.510 --> 01:18:27.290
+Justin: and that's going to be relevant to a big enough audience that you'll get that return on investment. right? Yeah. But
+
+01:18:27.350 --> 01:18:35.180
+Justin: but what I would reiterate is that at the end of the day the Asia markets are the largest ones in
+
+01:18:35.340 --> 01:18:36.870
+Justin: today, and
+
+01:18:36.930 --> 01:18:45.950
+Justin: putting more and more distance between themselves and other regions. So you know, if you're in a Western company, the problem is
+
+01:18:46.140 --> 01:18:47.700
+Justin: you somewhat.
+
+01:18:48.110 --> 01:18:55.600
+Justin: I think you have a little bit of a unconscious bias that you assume. If you're in the Us. You're in the biggest market, and you, you know.
+
+01:18:55.880 --> 01:18:57.950
+Justin: in the case of films, that's true
+
+01:18:58.120 --> 01:19:12.440
+Justin: case of television. That's true. In the case of theme parts, that's true. But in the case of games. That's just not factually correct. So you know there the the thing that was impressive about Disney
+
+01:19:12.480 --> 01:19:18.680
+Justin: and one of you know many of the bosses I had that were really impressive. One of them was a guy named Jimmy Pittaro.
+
+01:19:18.760 --> 01:19:33.680
+Justin: and Jimmy now runs. He's the chairman of Espn, but at the time he was the head of consumer products and an interactive media, and Jimmy understood that like soon. Soon, you know it's the biggest game in the Wall Company, the Walt Disney company's history.
+
+01:19:34.030 --> 01:19:37.900
+Justin: 95% of the revenue lifetime that will make is made in Japan
+
+01:19:38.000 --> 01:19:45.540
+Justin: 95%, and is the biggest game in the country to the company's history because the markets, the industry is that big.
+
+01:19:45.830 --> 01:19:49.620
+Justin: And but there's that many games that you know you.
+
+01:19:49.640 --> 01:19:50.900
+Justin: It's not like
+
+01:19:50.960 --> 01:19:57.290
+Justin: compared to films. There's infinitely more games out there that are live services in operations today
+
+01:19:57.480 --> 01:20:01.120
+Justin: that are generating meaningful revenue for years.
+
+01:20:01.180 --> 01:20:04.240
+Justin: And so you, Your competition is such that you.
+
+01:20:04.400 --> 01:20:16.730
+Justin: You can't necessarily insist that we're going to make one game. It's going to be a big hit everywhere in the world, and we'll get economies of scale, and it sounds really good for Mbas and all that like, but that's not what the consumers want.
+
+01:20:17.310 --> 01:20:22.410
+Justin: And so there are games that have scaled across region. There are examples of that. And so the problem is that
+
+01:20:22.540 --> 01:20:32.510
+Justin: the exceptions become what people point to when the overwhelming majority of games today, up until this point, I believe, into the future will monetize in certain regions better than others.
+
+01:20:33.650 --> 01:20:37.120
+Justin: and that there's nothing wrong with it. If you look at what
+
+01:20:37.420 --> 01:20:41.090
+Justin: see arena down to the free.
+
+01:20:41.320 --> 01:20:42.650
+Justin: It's brilliant.
+
+01:20:42.700 --> 01:20:54.120
+Justin: It's absolutely brilliant. How they decide we're going to focus on emerging markets and super serve the end customers, because we understand the circumstances that they have when they're experiencing our game
+
+01:20:54.260 --> 01:20:59.100
+Justin: network limitations, handset limitations, payment needs
+
+01:20:59.160 --> 01:21:06.690
+Justin: how they access content. You know how they are willing to pay for things micro payments that nature
+
+01:21:06.700 --> 01:21:15.540
+Justin: they just do it. And and and you know, being on the calendars, the social calendars, those regions, launching events
+
+01:21:15.630 --> 01:21:19.500
+Justin: consistent with those parts of the world, and prioritizing that
+
+01:21:19.530 --> 01:21:24.250
+Justin: they just went in and found a huge and growing
+
+01:21:25.970 --> 01:21:35.000
+Justin: a part of the gaming industry that's largely uncontested right now, and they just went in and in in in the first person. Shooter Genre went in and just took it over
+
+01:21:35.370 --> 01:21:41.120
+Justin: and own it and do it better than anybody, and I really respect that focus. And
+
+01:21:41.320 --> 01:21:46.790
+Justin: yeah. there's other companies that have scaled really well, globally with a few titles. But
+
+01:21:46.800 --> 01:21:51.000
+Justin: I I think most companies tend to be strong in one region or another.
+
+01:21:51.220 --> 01:21:53.090
+Daniel Tedesco: Right? Yeah.
+
+01:21:53.430 --> 01:21:55.940
+Justin: But the pie is so big
+
+01:21:56.310 --> 01:22:07.190
+Justin: I don't necessarily think that's there's yeah. Oh, unless we're strong in all markets, there's an issue I I really the more i'm at this business, the more I question that.
+
+01:22:08.380 --> 01:22:09.450
+Justin: Yeah.
+
+01:22:09.480 --> 01:22:10.270
+Daniel Tedesco: right?
+
+01:22:10.310 --> 01:22:12.750
+Daniel Tedesco: Yeah. Well, I mean
+
+01:22:13.140 --> 01:22:22.520
+Justin: as some some proves like Japan, Japan alone can be enough. Look at, Look at, look at you know, as proud as i'm at, since you look at honor of kings.
+
+01:22:23.060 --> 01:22:26.530
+Justin: Yeah, or China alone.
+
+01:22:26.670 --> 01:22:31.150
+Justin: right? That they like out of things is not a big game in the Western world like right?
+
+01:22:31.290 --> 01:22:36.460
+Justin: No, it doesn't need to be.
+
+01:22:36.620 --> 01:22:40.980
+Justin: Look at how big the lineage franchises in Asia.
+
+01:22:41.400 --> 01:22:42.300
+Justin: Right?
+
+01:22:42.580 --> 01:22:46.700
+Justin: Massive, right? It's not that way in the West, but you know
+
+01:22:46.780 --> 01:22:58.460
+Justin: over multiple titles. Now, over multiple decades. Lineage is just a massive franchise. And so I think I think you have to look at it in that contacts
+
+01:22:58.590 --> 01:23:10.700
+Justin: there's in Japan. We have a lot of the top grossing games in mobile or games that don't export at all like monsters like your fake, grand order, or puzzles and dragons.
+
+01:23:12.420 --> 01:23:13.500
+Justin: you know.
+
+01:23:13.530 --> 01:23:17.720
+Justin: puzzles and dragons is 10 years old and still monetize incredibly. Well.
+
+01:23:18.140 --> 01:23:25.550
+Justin: you see the TV commercials all the time. Yeah, in grossing game it is over 10 years old. Yeah.
+
+01:23:26.050 --> 01:23:27.170
+Justin: So
+
+01:23:27.390 --> 01:23:33.800
+Justin: yeah, but that game is not making money anywhere else. And still it's a very healthy business for
+
+01:23:33.870 --> 01:23:36.140
+Justin: who is the company that it runs that game.
+
+01:23:36.190 --> 01:23:40.170
+Justin: So yeah, I I think you have to.
+
+01:23:40.250 --> 01:23:46.840
+Justin: If you're a game publisher or game developer being particularly strong in one region or another is not necessarily a bad thing.
+
+01:23:47.040 --> 01:23:47.690
+Daniel Tedesco: Right?
+
+01:23:48.310 --> 01:24:01.360
+Daniel Tedesco: Yeah, those are some incredible examples. Just as as we start to wrap up. Is there anything that we didn't cover for the audience that you'd think we should.
+
+01:24:02.800 --> 01:24:04.940
+Justin: Gee!
+
+01:24:05.290 --> 01:24:10.430
+Justin: What a lot of fun! And and what I would say is
+
+01:24:10.810 --> 01:24:21.590
+Justin: for those people who are watching that are in the gaming industry, you know. Be very proud. Be very excited. Change is is a given, and there's a lot of change right now, be it, you know.
+
+01:24:21.950 --> 01:24:24.120
+Justin: sort of the increase sort of
+
+01:24:24.160 --> 01:24:32.640
+Justin: A/C acceleration towards a multi platform, and you know the somewhat inevitability of web 3. And and
+
+01:24:32.870 --> 01:24:36.720
+Justin: you know, as business models continue to become
+
+01:24:37.890 --> 01:24:43.770
+Justin: diversified. There's, you know, always questions, always things to give you stress
+
+01:24:43.980 --> 01:24:46.110
+Justin: things to figure out.
+
+01:24:46.400 --> 01:24:52.050
+Justin: But me personally, I find it very exciting, and the one thing that never changes that
+
+01:24:52.470 --> 01:24:54.390
+Justin: we're in the entertainment business.
+
+01:24:55.410 --> 01:25:00.450
+Justin: To me games are entertainment, you know. We talk when you talk about the game industry.
+
+01:25:00.830 --> 01:25:08.280
+Justin: Yeah. You can talk about everything, from the venture capitalist to the streamers, to the influencers, to the live Ops
+
+01:25:08.550 --> 01:25:15.190
+Justin: publishers Apple Google, all of these important components of the ecosystem.
+
+01:25:15.580 --> 01:25:23.190
+Justin: But at the end of the day none of it matters. If it's not serving the customer. The customer is why everything else exists
+
+01:25:23.380 --> 01:25:42.150
+Justin: so, whether it's blockchain, or if it's multi platform, or if it's traditional free to play, or if it's, console whatever the genre or the platform. You know the IP. All of those things are really important, and figuring all that out is the difference between being successful and not
+
+01:25:42.350 --> 01:25:49.500
+Justin: but all the things you're doing is still you're doing it for for the customer. So
+
+01:25:49.830 --> 01:25:57.710
+Justin: the one old man, sage pseudo, sage word of advice that says, never lose sight of the customer
+
+01:25:58.070 --> 01:26:04.920
+Justin: because technology is going to change it's going to be web 4 at some point. They gotta figure out
+
+
+Chunk 7:
+01:26:05.050 --> 01:26:17.360
+Justin: AI is gonna dramatically impact what we do. And you guys had a great podcast recently on that. And you know, Jenner AI is another area that anybody in gaming needs to be paying attention to. But ultimately
+
+01:26:17.420 --> 01:26:23.150
+Justin: all of this, the cool tools and the technologies again, are all about, you know, improving
+
+01:26:23.170 --> 01:26:30.270
+Justin: ultimately the quality of the output to the consumer. right? And if you you keep that as your North star.
+
+01:26:30.430 --> 01:26:36.520
+Justin: you'll probably have enough successes that you can stay in the industry and hopefully make some money.
+
+01:26:36.830 --> 01:26:37.760
+Daniel Tedesco: Yeah?
+
+01:26:37.930 --> 01:26:44.910
+Daniel Tedesco: Well, that is inspiring. No, to end on. Michael. Did you have something to?
+
+01:26:45.510 --> 01:26:48.150
+Michael Du: No, I think that that's great. Yeah.
+
+01:26:48.470 --> 01:26:50.580
+Daniel Tedesco: yeah.
+
+01:26:50.700 --> 01:26:56.900
+Daniel Tedesco: Justin. So how should folks follow? You learn more about your up to what you're up to?
+
+01:26:57.310 --> 01:26:58.910
+Justin: Well.
+
+01:26:59.090 --> 01:27:09.370
+Justin: you know I have I I would i'm a little old school. I'm not a big Twitter guy, but I tend to weigh in on what i'm thinking on linkedin
+
+01:27:09.430 --> 01:27:12.680
+Justin: more and more these days, because
+
+01:27:12.810 --> 01:27:30.680
+Justin: obviously a lot of you know it's a but a bit more of a focused adult conversation around gaming and other technology topics. So I tend to do most of my communication on linkedin anybody who wants to seize this and wants to reach out to me on Linkedin, happy to have a chat, and
+
+01:27:30.680 --> 01:27:35.740
+Justin: increasingly i'm sort of putting my thoughts on Linkedin as well about where the industry is headed. But
+
+01:27:35.820 --> 01:27:44.650
+Justin: I i'm as interested to meet other folks, too. So anybody who wants to reach out please do so like I said, we're always
+
+01:27:44.710 --> 01:27:47.620
+Justin: trying to learn new things here. So at least I am.
+
+01:27:47.640 --> 01:27:54.040
+Justin: Yeah, I would say like in for sure, and I like personal conversations, so just
+
+01:27:54.180 --> 01:27:56.760
+Justin: reach out to me, and
+
+01:27:56.940 --> 01:27:58.910
+we can link up there.
+
+01:27:59.580 --> 01:28:03.870
+Daniel Tedesco: Yeah, that sounds great. I I'd love to see
+
+01:28:04.310 --> 01:28:20.460
+Justin: to to hear more of your your thoughts on on Asia, and gaming and and entertainment on on Linkedin. So if you're thinking of posting more there double double thumbs up to to do it.
+
+01:28:20.460 --> 01:28:28.440
+Justin: No, I I think i'd love to do that because you get great feedback from folks as well. But I really enjoy this. I appreciate your time. And
+
+01:28:28.680 --> 01:28:33.010
+Justin: yeah, I'll be. I'll be a a viewer of your future podcast for sure.
+
+01:28:33.190 --> 01:28:51.210
+Daniel Tedesco: Awesome. Thank you. Yeah. Well don't forget to click like and and subscribe when you when you watch the video Justin. So our our guest today has been Justin Scarpone Justin. Thanks so much for being part of
+
+01:28:51.210 --> 01:28:55.900
+Daniel Tedesco: the craft and thank you viewers for listening to
+
+01:28:55.900 --> 01:29:15.850
+Daniel Tedesco: or watching the craft podcast for more links and information about this episode, or to listen to more episodes you can search for the craft, podcast by Daniel Tesco and Michael do on Youtube, or anywhere you get your podcasts again. Please make sure to to like and subscribe. Leave a review right now.
+
+01:29:15.850 --> 01:29:19.840
+Daniel Tedesco: and we'll see you next time. Until then, Keep crafting.
+
+01:29:20.750 --> 01:29:21.740
+Justin: Thank you.
+
+01:29:23.260 --> 01:29:24.560
+Michael Du: Thank you.
+
