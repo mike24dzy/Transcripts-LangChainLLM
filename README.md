@@ -5,4 +5,4 @@
 3. Ask suggestions about the interview contents
 4. Document our interviews, and ask anything straight to the point in a very efficient manner
 
-### Check our Podcast (The Craft Podcast): https://www.youtube.com/channel/UCnkFrokyriTDDi-Dw1NXsxA
+### Check out our Podcast (The Craft Podcast): https://www.youtube.com/channel/UCnkFrokyriTDDi-Dw1NXsxA
